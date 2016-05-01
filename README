@@ -1,0 +1,27 @@
+Instructions – System Usability Scale
+
+• Admin Login:
+◦ Username: admin , Password: admin123
+◦ In “Add Workshop”, you can Add a Workshop Name and Also the System name for
+which the SUS report needs to be taken.
+◦ In “Add Researcher”, you can add a user and give separate login to View the results of
+different workshops.
+◦ In “Edit Questions”, you can edit your existing set of DEFAULT question, where in you
+can write the word “SYSTEM” in the question where you want the system name to
+appear in your SUS Form. Eg: “I found SYSTEM unnecessarily complex”.
+◦ In “View Desp.”, you will be able to see descriptions of all the workshops, there are few
+other filters that you will see on the side bar.
+◦ On the Dashboard you see a “View Form” option on the left sidebar, there you can view
+how the SUS form will look and also submit that form from the Admin Login.
+
+• Researcher Login:
+◦ This login is mainly used to SUS Results of the Workshop assigned to the user.
+◦ It has a “Edit Question” tab, if the user wishes to customize questions for that particuar
+Workshop, then it can be done from here.
+◦ The system name of the workshop can be changed under the Settings panel.
+◦ We can share the url to the users of the SUS Form from the View Form tab on the left
+side Bar.
+
+• Passwords of both the logins can be changed from the Settings panel. The researcher login
+gets a first time randomly generated password that can be seen on the “Add Researcher”
+screen in the Admin Login.
